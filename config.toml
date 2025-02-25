@@ -1,0 +1,6 @@
+baseURL = "http://matedata.org/"
+languageCode = "en-us"
+title = "Matedata"
+theme = "hugo-cards"
+[params]
+  showDownloads = false
