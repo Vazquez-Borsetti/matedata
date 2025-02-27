@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Matedata</title>
+    <link>https://www.matedata.org/pages/</link>
+    <description>Recent content in Pages on Matedata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.matedata.org/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>https://www.matedata.org/pages/about/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.matedata.org/pages/about/</guid>
+      <description>About Us We believe in the power of open data and visualization to make complex information more accessible and meaningful. Our goal is to transform raw datasets into clear, interactive graphics that help uncover patterns, trends, and insights.
+Through this platform, we aim to:
+ Promote the use of open data for research and analysis Develop intuitive visualizations to enhance understanding Share tools and resources for data exploration  Join us in making data more insightful and engaging!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.matedata.org/pages/contact/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.matedata.org/pages/contact/</guid>
+      <description>Get in Touch We&amp;rsquo;d love to hear from you!
+Feel free to reach out via email.
+📧 Email: info@matedata.org</description>
+    </item>
+    
+  </channel>
+</rss>
